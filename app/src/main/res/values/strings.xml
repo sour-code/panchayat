@@ -1,0 +1,190 @@
+<resources>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Spinner_items">
+
+        <item>AADHAR NO</item>
+        <item>VOTER ID </item>
+        <item>PAN NO</item>
+        <item>MANREGA ID</item>
+
+    </string-array>
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+    <string-array name="Saraikella">
+        <item>Chotadawan</item>
+        <item>Govindpur</item>
+        <item>Hudu</item>
+        <item>Itakudar</item>
+        <item>Kamalpur</item>
+        <item>Mohitpur</item>
+        <item>Mundatand</item>
+        <item>Murkum</item>
+        <item>Nuagaon</item>
+        <item>Pandra</item>
+        <item>Pathanmara</item>
+        <item>Sini</item>
+        <item>Uperdugni</item>
+    </string-array>
+    <string-array name="Kharsawan">
+        <item>Badaamda</item>
+        <item>Bitapur</item>
+        <item>Burudih</item>
+        <item>Chilku</item>
+        <item>Chilku</item>
+        <item>Dalaikela</item>
+        <item>Haribhanja</item>
+        <item>Jojodih</item>
+        <item>Jordiha</item>
+        <item>Kharsawan(Old Ulb)</item>
+        <item>Krishnapur</item>
+        <item>Riding</item>
+        <item>Simla</item>
+        <item>Telaidih</item>
+    </string-array>
+    <string-array name="Gamharia">
+        <item>Bandhdih</item>
+        <item>Barakankra</item>
+        <item>Birbansh</item>
+        <item>Burudih</item>
+        <item>Chamaru</item>
+        <item>Chotagamaharia</item>
+        <item>Dodra</item>
+        <item>Dugdha</item>
+        <item>Dugni</item>
+        <item>Dumra</item>
+        <item>Itagarh</item>
+        <item>Jagganathpur</item>
+        <item>Jaikan</item>
+        <item>Kalikapur</item>
+        <item>Kandra</item>
+        <item>Muria</item>
+        <item>Narayanpur</item>
+        <item>Nuwagarh</item>
+        <item>Rapcha</item>
+        <item>Tentoposi</item>
+        <item>Yashpur</item>
+    </string-array>
+    <string-array name="Rajnagar">
+        <item>Badasijulda</item>
+        <item>Bana</item>
+        <item>Bandu</item>
+        <item>Dhuripada</item>
+        <item>Dumardih</item>
+        <item>Edal</item>
+        <item>Gamaharia</item>
+        <item>Gengeruli</item>
+        <item>Govindpur</item>
+        <item>Herma</item>
+        <item>Jonbani</item>
+        <item>Jumal</item>
+        <item>Katanga</item>
+        <item>Kendmundi</item>
+        <item>Kuju</item>
+        <item>Kurma</item>
+        <item>Potka</item>
+        <item>Rajnagar</item>
+        <item>Tintidih</item>
+        <item>Tumung</item>
+        <item>Vijadih</item>
+    </string-array>
+    <string-array name="Kukru">
+        <item>BERASISIRUM</item>
+        <item>CHAURA</item>
+        <item>ICHADIH</item>
+        <item>JANUM</item>
+        <item>KUKRU</item>
+        <item>LETEMDA</item>
+        <item>ODIA</item>
+        <item>PARGAMA</item>
+        <item>TIRULDIH_1</item>
+    </string-array>
+    <string-array name="Nimdih">
+        <item>BADEDA</item>
+        <item>CHALIYAMA</item>
+        <item>CHIGRAPARKIDIH</item>
+        <item>GORDIH</item>
+        <item>GUNDA</item>
+        <item>HEVEN</item>
+        <item>ADARDIH</item>
+        <item>JHIMRI</item>
+        <item>LAKRI</item>
+        <item>LUPUNGDIH</item>
+        <item>SAMANPUR</item>
+        <item>TENGADIH</item>
+        <item>TILLA</item>
+
+
+    </string-array>
+    <string-array name="Ichagarh">
+        <item>BANDU</item>
+        <item>CHIMTIYA</item>
+        <item>DEWALTAND</item>
+        <item>GORANGKOCHA</item>
+        <item>GUDRI</item>
+        <item>LEPATAND</item>
+        <item>MAISDA</item>
+        <item>NADISAI</item>
+        <item>PATKUM</item>
+        <item>SITU</item>
+        <item>SODO</item>
+        <item>TIKAR</item>
+        <item>TIRULDIH_2</item>
+        <item>TUTA</item>
+
+
+    </string-array>
+    <string-array name="Chandil">
+        <item>ASANBONI</item>
+        <item>BHADUDIH</item>
+        <item>CHANDIL</item>
+        <item>CHILGU</item>
+        <item>CHOWKA</item>
+        <item>CHOWLIBASA</item>
+        <item>DHUNABURU</item>
+        <item>GHORANEGI</item>
+        <item>HENSAKOCHA</item>
+        <item>JHABRI</item>
+        <item>KHUNTI</item>
+        <item>MATKAMDIH</item>
+        <item>RASUNIYA</item>
+        <item>RUCHAP</item>
+        <item>RUDIYA</item>
+        <item>TAMOLIYA</item>
+        <item>URMAL</item>
+
+
+    </string-array>
+    <string-array name="Kuchai">
+        <item>ARWAN</item>
+        <item>BANDOLOHAR</item>
+        <item>BARUHATU</item>
+        <item>CHOTASEGOI</item>
+        <item>GOMIADIH</item>
+        <item>MARANGHATU</item>
+        <item>PONDAKATA</item>
+        <item>ROLAHATU</item>
+        <item>RUGUDIH</item>
+        <item>TILOPADA</item>
+
+
+
+    </string-array>
+
+    <string-array name="Blocks">
+        <item>Seraikella</item>
+        <item>Kharsawan</item>
+        <item>Gamharia</item>
+        <item>Rajnagar</item>
+        <item>Kuchai</item>
+        <item>Chandil</item>
+        <item>Ichagarh</item>
+        <item>Nimdih</item>
+        <item>Kukru</item>
+    </string-array>
+</resources>
